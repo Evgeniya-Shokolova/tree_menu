@@ -8,7 +8,7 @@
 
 # Меню реализовано через template tag
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236BCF7&lines=Как+запустить+проект+Reviews:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236BCF7&lines=Как+запустить+проект:)](https://git.io/typing-svg)
 
 
 Выполнить клонирование
